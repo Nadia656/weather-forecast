@@ -3,9 +3,9 @@
 Weather Forecast is a JS/HTML/CSS (using API) application which automatically searches for your address and updates your local weather .
 ## Usage
 
-1. Tap the search field at the top of the screen, then enter the name of the city, neighborhood, or location.</br>
+ Tap the search field at the top of the screen, then enter the name of the city, neighborhood, or location.
 
-2. Tap the location in the search results to display the forecast.  
+
 
 ![Nature](meditationApp.png)
 
