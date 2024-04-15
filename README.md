@@ -7,7 +7,7 @@ Weather Forecast is a JS/HTML/CSS (using API) application which automatically se
 
 
 
-![Nature](meditationApp.png)
+![Lightning](weather.png)
 
 
 ## Built With
