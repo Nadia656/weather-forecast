@@ -1,9 +1,9 @@
-# My Meditation
+# Weather Forecast
 
-My Meditation is a JS/HTML/CSS project for relaxation.
+Weather Forecast is a JS/HTML/CSS (using API) application which automatically searches for your address and updates your local weather .
 ## Usage
 
-Open every link for finding the appropriate music  
+1.   
 
 ![Nature](meditationApp.png)
 
